@@ -1,6 +1,6 @@
 # Amigo Secreto 🎉  
 
-Este é um projeto simples em JavaScript para realizar sorteios de **amigo secreto**.  
+Este é um projeto em JavaScript para realizar sorteios de **amigo secreto**.  
 
 ## 📌 Funcionalidades  
 
