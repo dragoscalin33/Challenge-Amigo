@@ -20,6 +20,6 @@ Este é um projeto simples em JavaScript para realizar sorteios de **amigo secre
 - **CSS3**
 - **JavaScript**
 
-- ##  Site 
+## 📌 Site 
 
 https://challenge-amigo.vercel.app
